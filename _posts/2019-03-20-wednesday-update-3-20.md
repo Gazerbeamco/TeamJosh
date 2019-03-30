@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-03-20 18:01:51
 ---
-Yesterday, Josh’s surgeon said that the best thing to while he was healing was to maintain a sense of day and night, and to talk to him. I read comments from his group and website (I read posted comments to him before he went into surgery on Monday), and then red some dad jokes from a subreddit. He did respond to me by lifting up his hand, and at one point we connected for a high five.
+Yesterday, Josh’s surgeon said that the best thing to do while he was healing was to maintain a sense of day and night, and to talk to him. I read comments from his group and website (I read posted comments to him before he went into surgery on Monday), and then red some dad jokes from a subreddit. He did respond to me by lifting up his hand, and at one point we connected for a high five.
 
 Today, he is communicating “yes” or “no” with a thumbs up or down. There is some hope that the drain in his head can be removed soon.
 
