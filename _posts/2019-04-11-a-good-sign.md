@@ -14,5 +14,5 @@ post_date: 2019-04-11 22:18:18
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Last night, Theresa sent me a video of Josh speaking. This is something he hasn't been able to do since before his surgery.  So, this is a strong sign that his body is slowly healing, and that the therapy is making a difference. I think that the recovery will go much smoother as Josh is able to better communicate what he is thinking or what he needs. This is very encouraging, and quite an accomplishment for Josh.</p>
+<p>Last night, Theresa sent me a video of Josh speaking. This is something he hasn't been able to do since before his surgery, although it was a single word, "Daddy," and it was just a whisper.  Still, this is a sign that his body is slowly healing, and that the therapy is making a difference. I think that the recovery will go much smoother as Josh is able to better communicate what he is thinking or what he needs. This is very encouraging, and quite an accomplishment for Josh.</p>
 <!-- /wp:paragraph -->
