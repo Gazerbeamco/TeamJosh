@@ -1,0 +1,23 @@
+---
+ID: 349
+post_title: Physical Therapy
+author: Jon Morgan
+post_excerpt: ""
+layout: post
+permalink: >
+  http://joshmorgan.gazerbeam.com/physical-therapy
+published: true
+post_date: 2019-04-20 23:05:12
+---
+<!-- wp:jetpack/slideshow -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrappper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-348" data-id="348" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/04/img_3970-e1555799383457-768x1024.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-347" data-id="347" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/04/img_3967-e1555799491759-768x1024.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-345" data-id="345" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/04/img_3969-e1555799536121-1024x768.jpg"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow -->
+
+<!-- wp:tadv/classic-paragraph -->
+<p>Here are photos from Josh's physical therapy session today. He was moved to a gym on the fourth floor. After they had added a plastic APO (not the one which was custom made for him) into his shoe, they helped him stand up and then guided him around the bar. One therapist held him up, while they other helped to keep his right knee from snapping backwards as he walked. I learned that as his muscles in his leg get stronger, this won't be as much of an issue. This is also something that the custom APO will correct when he is able to wear it.</p>
+<p>Each time he was stood up, he went around the bars for about 4 laps before he was seated again. He completed approximately 3 trips around the bar.</p>
+<p>I get the feeling that they will be working with him more and more on walking independently once he is able to wear the custom APO. He might still be wearing it routinely when he is discharged from Mary Free Bed. But, as he gains his strength he will need it less and less.</p>
+<p>I asked Josh how he is feeling about his progress, and pointed out the freedom he will have gained back once he is able to walk. He didn't share in my enthusiasm, and actually he has seemed down all afternoon. He just says that he is tired, and napped. I don't know if that's truly the case, or there is something on his mind that's bothering him. Perhaps therapy isn't going fast enough, or he pictured that the end result would be different. I have also needed to adjust my expectations as I've learned more about the rehabilitation process. In the movies, characters who are injured will go through what might seem like a couple of weeks of therapy before bouncing back into action (often against doctors' orders, but then they end up being fine). Obviously, nothing in life is just like the movies, but it is hard not to be influenced by them. And, of course we want Josh to be 100% better so that his life can go back to how it was before all of this began.</p>
+<p>With everything that's happened, the discovery of the tumor, the surgery, the gaining back of his voice and muscle control, it struck me as a little funny that the issue they are dealing with right now in his leg is his knee bending backwards a little. When this all started, the whole reason why we went to the doctors' office in the first place, was because of that knee. Once that has been addressed, maybe we will have come full circle.</p>
+<p>The reality is that even if Josh were to walk with minimal support by the end of next week, his bigger fight with brain cancer has only just started. As tumultuous as his days at the Mary Free Bed hospital have been, this is really just the calm before the storm.</p>
+<!-- /wp:tadv/classic-paragraph -->
