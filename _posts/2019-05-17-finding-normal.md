@@ -1,6 +1,6 @@
 ---
 ID: 22433
-post_title: 'Finding &#8220;Normal&#8221;'
+post_title: 'Seeking &#8220;Normal&#8221;'
 author: Jon Morgan
 post_excerpt: ""
 layout: post
