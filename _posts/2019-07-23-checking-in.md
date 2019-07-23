@@ -1,0 +1,37 @@
+---
+ID: 33705
+post_title: Checking in
+author: Theresa Morgan
+post_excerpt: ""
+layout: post
+permalink: >
+  http://joshmorgan.gazerbeam.com/checking-in
+published: true
+post_date: 2019-07-23 00:51:38
+---
+<!-- wp:tadv/classic-paragraph -->
+<p>So sorry for the delay in updates, but there hasn't been a whole lot different to report and I suppose that is something we should be thankful for. So here is a brief rundown of happenings from the past couple of weeks.</p>
+<div>Lately our days vary between extremely busy and laid back.  Not a whole lot in the middle.  Josh is continuing with his therapy at McLaren Central Michigan Rehab. He usually has sessions 2 - 3 times a week and sees Speech, OT and PT, so usually we are out for 2-3 hours at a time for those. The therapists he is working with are great, but it's so different being on this schedule.  To go from daily 3+ hours of rehab to just a few sessions a week is a difficult adjustment, especially trying to remember to schedule time for his homework assignments for therapy.  Especially when each days schedule can vary so much.  But of course since he only has a few sessions a week, those homework assignments become very important. But this is a kid who never liked school homework, so we get some rolling eyes and resistance at times. LOL!</div>
+<div> </div>
+<div>In PT they are working on improving his balance and stamina. He's also practicing walking on different surfaces. He's also working on trying to improve his ankle strength and flexibility.  He has a lot of strength and mobility in his right leg from the hip to the knee but it diminishes from there. They aren't sure how much movement he'll get back in the lower portions, but they are going to work to see.  </div>
+<div> </div>
+<div>In OT, he has been focusing a lot on his right hand, wrist and fingers.  As with his leg, he can make big movements in his right arm from the shoulder to the elbow and then it diminishes from there.  He is able to move the muscles if he is prompted with a tapping movement, but it is difficult on his own. </div>
+<div> </div>
+<div>Speech is probably the most challenging of his therapies. Especially since many times he knows what he wants to say, but it is difficult to express.  He still gets confused if presented with too many options. He is working a lot on reading, memory, and speaking in full sentences.  The latter is probably the most difficult for all of us, as we spent so long trying to guess what he was trying to say, that it's tough to be patient and wait for him to find the words he's looking for.  </div>
+<div> </div>
+<div>Apart from his therapy, he's had check in visits with his pediatrician who will be taking the lead for his therapies and general healthcare now that he is home.We got her caught up on everything that has happened since we last talked, which was a lot!  She is pleased at his progress, but knows we still have a long road ahead.  We'll have another check in with her in mid-August.</div>
+<div> </div>
+<div>Josh also saw his pediatric ophthalmologist last week to see how he's eyes were affected from the tumor, treatments and surgery.  Thankfully his central vision has not changed since she last saw him in October, however his peripheral vision has declined significantly, especially on his right side.  This was something we had all ready noted and something that was expected since during the surgery to remove the tumor they had to go through the occipital lobe  The question is how much has been lost.  The plan is to do more comprehensive testing in January, when he's had more time to heal from the radiation and surgery. His doctor feels like at the moment he would struggle with the test itself which would not give them accurate results.  For now, we just need to be aware of his deficits and to remind him to track his eyes all the way to the right to make sure he's not missing things.  </div>
+<div> </div>
+<div>In the coming weeks he'll have check ins with his neurosurgeon, Dr Madura and we'll be stopping back by Mary Free Bed as well for an appointment with Dr. Voss and of course a stop to visit all of the staff on the pediatric unit.  </div>
+<div> </div>
+<div>
+<div>It's not all appointments, though sometimes it seems like it.  We had a fun visit with family earlier this month as they came over from Marlette to spend some time with us and have a meal out at IHop. We also escaped the heat this weekend and went to the movies to see Toy Story 4 and the new Lion King.  This past Saturday, several of Josh's friends dropped by to play video games and eat pizza.  Josh and Jon finished watching the latest season of Stranger Things. And, Josh, Kayla and Elijah have been discovering corny shows on Netflix to watch together as well as teaming up to play Breath of the Wild on the Switch.  Hopefully the heat will stay down and we'll be able to venture outside a bit more this week.  </div>
+<div> </div>
+<div> Josh has been less dependent on his wheelchair lately, especially at home.  He's been walking about the house on is own more and more with just his cane. He still needs help getting up off of some of the furniture at times (especially the couch which sits low) but he's been gaining more and more independence being out of the chair.  He's also been leaving the chair in the car for some of his appointments and has gone into therapy without it the past couple of times.  It's slower going, but so much better for him.  </div>
+</div>
+<div> </div>
+<div>We've been enjoying this 4 week reprieve from his cancer treatments, but that will be coming to an end soon.  On Thursday he will be getting both spinal and Brain MRI's to check to see how things look and then on Friday he will meet with his Oncologist to discuss the next stage of treatment.  We know from previous discussions that he has 6 more cycles of chemo to go. At last word that will entail him taking a larger dose of the oral chemo than he took while on radiation.  The dosing will be given for 5 days and then he'll have 23 days to recover before we start the next cycle.   He handled the 165 mg dose like a trooper with minimal issues, but we are a bit nervous how the larger dose will go.  Please keep him in your thoughts and prayers as we get ready to start this new phase.  </div>
+<div> </div>
+<div><img class="alignnone wp-image-33710 size-medium" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/07/66490915_531243254290937_4313904502592765952_n-225x300.jpg" alt="" width="225" height="300" /> <img class="alignnone wp-image-33709 size-medium" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/07/67130856_455660784984764_3408341889823277056_n-225x300.jpg" alt="" width="225" height="300" /> <img class="alignnone wp-image-33708 size-medium" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/07/67404120_399232300698954_9059891090349359104_n-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone wp-image-33707 size-medium" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/07/66837681_726468087785574_4596158217003728896_n-225x300.jpg" alt="" width="225" height="300" /><img class="alignnone wp-image-33706 size-medium" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2019/07/67633433_2125098967782635_8671824852237156352_n-225x300.jpg" alt="" width="225" height="300" /></div>
+<!-- /wp:tadv/classic-paragraph -->
