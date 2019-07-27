@@ -1,0 +1,22 @@
+---
+ID: 33715
+post_title: 'MRI&#8217;s and Oncology Check Up &#8212; Moving on to the Next Phase'
+author: Theresa Morgan
+post_excerpt: "Over the past couple of days we traveled to Grand Rapids for a checkup with Josh's oncologist and to have follow up MRI's of his brain and spine.  Thankfully we were able to stay at the Hope Lodge overnight as his  were late on Thursday and took several hours to complete and his appointment with the oncologist was before noon today. "
+layout: post
+permalink: >
+  http://joshmorgan.gazerbeam.com/mris-and-oncology-check-up-moving-on-to-the-next-phase
+published: true
+post_date: 2019-07-27 03:50:24
+---
+<!-- wp:tadv/classic-paragraph -->
+<p>Over the past couple of days we traveled to Grand Rapids for a checkup with Josh's oncologist and to have follow up MRI's of his brain and spine.  Thankfully we were able to stay at the Hope Lodge overnight as his  were late on Thursday and took several hours to complete and his appointment with the oncologist was before noon today. </p>
+<p>We are very happy to say that the report on the brain MRI showed no evidence of any recurrence of the tumor, which seems to indicate that everything is stable for the moment.  On the same note, the spinal MRI showed no abnormalities which is a great relief as the lumbar puncture he had completed not that long ago did indicate some abnormal cells.  But with the results of the MRI, it seems to indicate perhaps what they found then were just cast offs from his surgery back in March.  </p>
+<p>With those results in hand it is time to start the phase our oncologist calls, "Maintenance Chemo."  This is expected to be six cycles of temozolomide (or TMZ) where he takes the drug for 5 days and then has approximately 23 days to recover.  Dr. Braunreiter plans to take things one cycle at a time and will adjust the plans as necessary.  We will be having a regular clinic visit before each new phase begins to discuss any issues and if there are any changes to the plan.  It's also planned for Josh to have another set of MRI's completed after the 3rd cycle and again after the 6th and hopefully last.  If we are lucky and all goes according to plan, the last cycle could be completed just before Christmas. (fingers crossed!)</p>
+<p>We are a bit nervous as the dosage of TMZ is going to be double what he was taking at Mary Free Bed, (from 165 mg to 330 mg) and may potentially increase depending on how he is tolerating it.  The plan is for him to take the chemo meds in the evenings just like he did at Mary Free Bed.  He will begin with Benadryl  and an hour later take the chemo meds.  This was very helpful in keeping the nausea and vomiting to a minimum, and allowed him to sleep off most of the immediate effects of the medication.  We are just hoping and praying that the same holds true for this larger dose. If for some reason the Benadryl is not as effective as it was previously, we will need to discuss the possibility of weaning him off of the Prozac he is on so he can take a more dedicated anti-nausea med. </p>
+<p>In addition to all of that, Josh will be having planned weekly blood draws in Mt Pleasant to monitor his levels, specifically looking at his white blood cell count, neutrophil, hemoglobin, and platelets , which will alert us if he needs a transfusion. If that need ever arises we would be traveling back to Devos for them to perform the procedure in clinic.  </p>
+<p>All this is set to begin this Monday night, July 29th.  As I said he'll just be taking the medication for 5 days at a time, but we anticipate it will be pretty rough for him.  We aren't sure how this will affect his therapy schedule and the follow up checkups he has coming up with his rehab doctor from Mary Free Bed this next week.  Just taking it one day at a time and if he needs to take a week off, so be it, we'll just have to see how things go.  </p>
+<p>Thank you again so much for all your support and prayers. It means so much and it's helped get us this far.  Back when we discovered the cancer in March, we weren't even sure if they would be able to remove it all, and now thankfully we are on to what we pray will be the one of the last phases of this journey.  Please keep the prayers coming, especially as we begin the chemo cycle again on Monday.  It's definitely going to be so different having him home while he's taking this medication, instead of being in a hospital setting!  Fingers crossed all goes well.  We'll keep you updated.</p>
+<p> </p>
+<p> </p>
+<!-- /wp:tadv/classic-paragraph -->
