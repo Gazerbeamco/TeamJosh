@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-08-26 01:10:03
 ---
-I could be mistaken, but the kids may handle the start of the school year better than I do, and I’m not even in school. As the first day of school was getting closer, I found wishing there had been more time, or maybe that we had been able to do more with the 2 ½ months the kids had off.
+I could be mistaken, but the kids may handle the start of the school year better than I do, and I’m not even in school. As the first day of school was getting closer, I found myself wishing there had been more time, or maybe that we had been able to do more with the 2 ½ months the kids had off.
 
 Of course, this wasn’t an ordinary summer for us. Josh spent the Spring and all of June in Grand Rapids, with Theresa and I staying close by so there was always somebody there to support him. Things started to feel more normal once he was home towards the beginning of July, but we still haven’t traveled much, other than back to Grand Rapids for doctor appointments. There was a time when Josh and I could just hop in the car, and drive to Wal-Mart, or we might pack and then travel to see family. Now, trips are more complicated.
 
