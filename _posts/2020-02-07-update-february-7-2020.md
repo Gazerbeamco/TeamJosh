@@ -13,4 +13,4 @@ After being reviewed by a physical therapist from the district, Josh has been gr
 
 Overall, January was a month for transitioning to his new high school and therapy schedules. He will be attending occupational and language therapy on Thursday mornings before starting his school day at the high school.
 
-Josh had an appointment with his primary care physician, Dr. Hammock, a couple of weeks ago. It was the first time that I had spoken to her since almost a year ago when I took Josh in to see her about his knee. I thanked her for the diligence she put into his diagnosis that Tuesday, and said that I couldn’t imagine what might have happened if she hadn’t urged us to act as quickly as we had.
+Josh had an appointment with his primary care physician, Dr. Hammack, a couple of weeks ago. It was the first time that I had spoken to her since almost a year ago when I took Josh in to see her about his knee. I thanked her for the diligence she put into his diagnosis that Tuesday, and said that I couldn’t imagine what might have happened if she hadn’t urged us to act as quickly as we had.
