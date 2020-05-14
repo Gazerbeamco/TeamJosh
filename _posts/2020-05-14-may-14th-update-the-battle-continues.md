@@ -1,0 +1,28 @@
+---
+ID: 34127
+post_title: 'May 14th Update &#8211; The Battle Continues&#8230;'
+author: Theresa Morgan
+post_excerpt: ""
+layout: post
+permalink: >
+  http://joshmorgan.gazerbeam.com/may-14th-update-the-battle-continues
+published: true
+post_date: 2020-05-14 18:26:28
+---
+<!-- wp:tadv/classic-paragraph -->
+<p><img class="aligncenter wp-image-34131" src="http://joshmorgan.gazerbeam.com/wp-content/uploads/2020/05/joshmorgan05142020-scaled.jpeg" alt="" width="329" height="439" /></p>
+<p>On Tuesday, Jon, Josh and I traveled to Grand Rapids for a full day of doctor appointments.  The day began with a very early morning Brain MRI and blood test at Devos, followed by visits with Josh's Neurosurgeon, Neurologist and Oncologist. This was an important check in to see how things were looking a little more than a year after his cancer battle began. </p>
+<p>The day started out well, the MRI and blood test seemed pretty routine, and Josh came out smiling. Not easy when you've been forced to lay still for so long, but with as many MRI's as he's had now he knows what's expected of him.</p>
+<p>Next up was the meetings in Neurology. We met first with Caroline Rich who is a Pediatric Nurse Practitioner and has been monitoring Josh since his seizures last September.  She ran him through his usual screening, had him walk, and checked his right arm and leg for range of motion.  She noted how impressed she was with how far he's come and that even his expressive aphasia has continued to improve.  She also decided that even though Josh has not had any seizure activity since last fall, she wants to keep him on Keppra for the time being. While she was doing her screening, Josh's neurosurgeon, Dr. Madura came into the room.  We were slightly surprised by his early appearance, but it didn't seem too unusual given that his office is so close and the appointments were back to back and similar in nature.</p>
+<p>Once Caroline finished up with her exam, Dr. Madura took over and brought up Josh's MRI from earlier that morning on the screen to go over the results.  He had a side by side comparison of March 2019, January 2020 and the one done that day.  He noted a few differences and similarities between the images, showing where the original tumor was and how it looked in January as the area healed and there were no major signs of concern.  He then turned his focus on the images from that morning and his tone grew more serious and our worst fears were confirmed.  We had hoped this latest MRI would just continue to show the healing with no surprises, but unfortunately that wasn't the case.  Dr. Madura, pointed out <span style="text-decoration: underline;">not one, but two areas of concern</span> on this latest scan.  One is located in the cavity where the original tumor was removed and the other is located in the cerebellum near the 4th ventricle.  It is unclear at this time, if this is evidence of re-occurrence and spread of the original tumor, or if part of it could be a result of the radiation treatment Josh had undergone last spring or if this is something different all together. Dr. Madura remarked that the area that is in the original tumor cavity could potentially fit the radiation reasoning, but not necessarily the one in the cerebellum.  He explained to us that they would be discussing the findings of the MRI with the tumor board at Devos on Friday to talk about what might be the potential next steps. He also said that he would defer to Josh's oncologist, Dr. Braunreiter for any immediate decision on treatment.</p>
+<p>When we spoke with Dr. Braunreiter in the afternoon, she said there are basically 3 potential options the board will be discussing in regards to the results from the scan.</p>
+<ul>
+<li>Biopsy - but that may be difficult because there are two spots in the brain to consider and the difficulty of reaching them safely.</li>
+<li>Treat/Trial -If a biopsy isn't an option we could potentially look at beginning treatment (chemo/radiation) or searching for trials based on what we know of the pathology of the first tumor and other tests.</li>
+<li>Watch &amp; See - which would involve periodic scans to watch for changes in the areas of concern.</li>
+</ul>
+<p>In her mind, even those discussions are preliminary without gathering more information, so Josh is now scheduled to have a Spinal MRI on May 23rd to look for lesions or other abnormalities and will also have a Lumbar Puncture on the 29th to look for any indicators in the spinal fluid.  These will hopefully give us a better indicator of what is going on and provide clues for treatment options.</p>
+<p>She also had one more bit of news from his blood test to pass along, which was that one of Josh's white blood cell counts is not rebounding as fast as the others since the conclusion of his last chemo round in December.  So she will be keeping him on a 2 day a week antibiotic until some more improvement is seen there. </p>
+<p>This is certainly not where we hoped to be at this point.  Josh has been improving in so many areas and getting used to a new sense of "normal" Despite the fact that we knew this could be a possible result we tried not to think too much about it.  Josh on the other hand told Dr. Braunreiter that he already knew that "it wasn't over" even before this scan.  He said he didn't know it would be this scan that they would find something, but that it was not unexpected.  </p>
+<p>We will pass along what we learn from the tumor board and of course will keep you all updated as we learn more.  We just ask that you please continue to keep Josh and our family in your thoughts and prayers as we continue this battle.  Thank you all so much for your support!</p>
+<!-- /wp:tadv/classic-paragraph -->
