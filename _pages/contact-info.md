@@ -14,11 +14,5 @@ There have been some questions about where cards should be sent. Cards can be ei
 Josh Morgan
 P.O. Box 532
 Shepherd, Michigan 48883
-<h2>Mary Free Bed Hospital</h2>
-Josh Morgan
-RM 3312
-<span style="font-size: 1rem;">Mary Free Bed Rehabilitation Center
-</span>235 Wealthy St. S.E.
-Grand Rapids, MI 49503-5299
 
 Josh's family can be reached via the email address <a href="mailto:teamjosh@gazerbeam.com">teamjosh@gazerbeam.com</a>.
